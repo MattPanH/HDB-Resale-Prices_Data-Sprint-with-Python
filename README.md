@@ -19,5 +19,5 @@ c)	A homeowner looking to sell their HDB flat at a competitive price to interest
 Resold HDB units from HDB, data was provided by General Assembly and uploaded on the repository for easy reference.  <br>
 <br>
 <h2> Data Limitation </h2>
-The data does not include renovation conditions of flat, sunlight direction, facing of the unit (poolside view, quiet view, etc) <br>
-Macroeconomic factors such as demographic shifts and policy changes not reflected in the data and must be supplemented with additional research.
+a)	The data does not include renovation conditions of flat, sunlight direction, facing of the unit (poolside view, quiet view, etc) <br>
+b)	Macroeconomic factors such as demographic shifts and policy changes not reflected in the data and must be supplemented with additional research.
