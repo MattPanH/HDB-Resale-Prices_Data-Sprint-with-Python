@@ -20,4 +20,4 @@ Resold HDB units from HDB, data was provided by General Assembly and uploaded on
 <br>
 <h2> Data Limitation </h2>
 a)	The data does not include renovation conditions of flat, sunlight direction, facing of the unit (poolside view, quiet view, etc) <br>
-b)	Macroeconomic factors such as demographic shifts and policy changes not reflected in the data and had to be supplemented with additional research.
+b)	Macroeconomic factors such as demographic shifts and policy changes are not reflected in the data and had to be supplemented with additional research.
