@@ -15,7 +15,7 @@ a)	A real estate agent of of WOW!, a leading real estate agency in Singapore. <b
 b)	A newly married couple, looking to buy a HDB resale flat at an affordable price at their preferred location. <br>
 c)	A homeowner looking to sell their HDB flat at a competitive price to interested parties. <br>
 <br>
-<h2> Data Sources </h2>
+<h2> Data Source </h2>
 Resold HDB units from HDB, data was provided by General Assembly and uploaded on the repository for easy reference.  <br>
 <br>
 <h2> Data Limitation </h2>
